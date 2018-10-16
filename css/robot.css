@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0}
+#box{width: 800px;height:600px;margin: 0 auto;border: 1px solid;
+position: relative;}
+.box1{height: 479px;width: 780px;border-bottom: 1px solid;padding: 10px;overflow:auto;}
+.box2{height: 80px;width: 780px;resize: none;padding: 10px}
+#txt{height: 60px;width: 780px;border: 0;resize: none}
+#btn{position: absolute;right: 10px;bottom: 0;width: 100px;height: 25px;text-align: center}
+.p1{margin-bottom: 10px;overflow: hidden;}
+.p1 span{background: blue;color: #fff;float: left;padding: 10px;border-radius: 5px}
+.p1 img{width: 41px;height: 41px;float: left;margin-right: 5px}
+.p2{margin-bottom: 10px;overflow: hidden;position: relative;}
+.p2 img{width: 41px;height: 41px;position: absolute;right: 0;}
+.p2 span{background: blue;color: #fff;float: right;padding: 10px;margin-right: 46px;
+    border-radius: 5px;white-space: pre-wrap}
